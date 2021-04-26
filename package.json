@@ -37,6 +37,7 @@
     "extends": [
       "plugin:vue/essential",
       "plugin:prettier/recommended",
+      "plugin:jest-dom/recommended",
       "eslint:recommended"
     ],
     "parserOptions": {
